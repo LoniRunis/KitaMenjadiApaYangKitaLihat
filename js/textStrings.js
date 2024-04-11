@@ -153,7 +153,7 @@ var textStrings_DE = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "waktu permainan: 5 menit" ,
-    "warning"            : "    jika kita menyebarkan dan terlalu percaya berita provokasi."          ,
+    "warning"            : "                jika kita menyebarkan dan terlalu percaya berita provokasi."          ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
