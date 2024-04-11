@@ -113,21 +113,21 @@ var textStrings_DE = {
     "getARoom"             : "eww, jangan di tempat umum!"                                       ,
     "notCoolAnymore"       : "lupakan, topi sudah tidak keren."                                  ,
     "tvOnTv"               : "ada tv di dalam tv!"                                               ,
-    "cricky"               : "Ein Grash\xFCpfer!"                                                ,
-    "tooManyCrickets"      : "Ok, zu viele Grash\xFCpfer."                                       ,
-    "normalPeep"           : "Ein gew\xF6hnlicher Typ."                                          ,
-    "normalPeeps"          : "Ein paar gew\xF6hnliche Typen."                                    ,
-    "wowNothing"           : "Wow! Nichts! Gar nix!"                                             ,
+    "cricky"               : "seekor jangkrik!"                                                  ,
+    "tooManyCrickets"      : "Ok, terlalu banyak jangkrik."                                      ,
+    "normalPeep"           : "hanya orang biasa."                                                ,
+    "normalPeeps"          : "beberapa orang biasa."                                             ,
+    "wowNothing"           : "tidak ada apa apa"                                                 ,
     
     // Act 2
-    "crazySquareAttacks"   : "Verr\xFCcktes Quadrat greift an!"                                  ,
-    "justMissed"           : "Ooooh, knapp verpasst."                                            ,
-    "somethingInteresting" : "(laaangweilig *g\xE4hn*)"                                          ,
-    "whoIsScreaming"       : "(*wer* schreit sie denn an?)"                                      ,
-    "circleFearsSquares"   : "KREIS F\xDCRCHTET QUADRATE!"                                       ,
-    "whoScaresThem"        : "(*wen* f\xFCrchten sie denn?)"                                     ,
-    "areTheyScared"        : "(erwische sie, *wenn* sie fl\xFCchten)"                            ,
-    "squaresSnubCircles"   : "QUADRAT: Anschuldigungen von KREISEN l\xE4cherlich."               ,
+    "crazySquareAttacks"   : "SERANGAN KOTAK GILA!"                                              ,
+    "justMissed"           : "oohh, sudah terlewat."                                             ,
+    "somethingInteresting" : "(kamu harus menangkap sesuatu yang *menarik*)"                     ,
+    "whoIsScreaming"       : "(*siapa* yang berteriak?)"                                         ,
+    "circleFearsSquares"   : "LINGKARAN TAKUT AKAN KOTAK!"                                       ,
+    "whoScaresThem"        : "(*siapa* yang membuatnya taku?)"                                   ,
+    "areTheyScared"        : "(tangkap ketika mereka melarikan diri)"                            ,
+    "squaresSnubCircles"   : "KOTAK MENGHINA LINGKARAN."                                         ,
     "areTheySnubbed"       : "(erwische sie, *w\xE4hrend* sie angreifen)"                        ,
     "everyoneHates"        : "ALLE HASSEN JEDEN!!1!"                                             ,
     "almostEveryoneHates"  : "FAST JEDER HASST ALLE..."                                          ,
@@ -141,7 +141,7 @@ var textStrings_DE = {
     // Act 3
     "ellipsis"             : ". . ."                                                             ,
     "coolNoMore"           : "H\xFCte sind out. Hast du's immer noch nicht geh\xF6rt?"           ,
-    "beScared"             : "HABT ANGST. SEID W\xDCTEND."                                        ,
+    "beScared"             : "HABT ANGST. SEID W\xDCTEND."                                       ,
     
     // MANIFESTO
     "manifesto" : [
