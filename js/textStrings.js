@@ -59,7 +59,7 @@ var textStrings_EN = {
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" ,
     
-    // (chyron3.png)
+    // (chyron2.png)
     "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
     
     // (credits0001.png)
