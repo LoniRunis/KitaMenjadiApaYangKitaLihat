@@ -109,7 +109,7 @@ var textStrings_EN = {
 var textStrings_DE = {
     // Act 1
     "niceHat"              : "Oh, topi yang bagus"                                               ,
-    "outtaHere"            : "Ja, besser schnell weg hier."                                      ,
+    "outtaHere"            : "blablabllabla."                                                    ,
     "getARoom"             : "Widerlich, nehmt euch ein Zimmer!"                                 ,
     "notCoolAnymore"       : "Schon geh\xF6rt? H\xFCte sind out."                                ,
     "tvOnTv"               : "Ein Fernseher! Im Fernsehen!"                                      ,
