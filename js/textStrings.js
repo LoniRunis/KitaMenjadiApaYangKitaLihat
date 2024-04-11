@@ -158,7 +158,8 @@ var textStrings_DE = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "waktu permainan: 5 menit" ,
-    "warning"            : "Game ini dibuat untuk mengetahui apa yang terjadi jika kita menyebarkan dan terlalu percaya berita provokasi." ,
+    "warning"            : "Game ini dibuat untuk mengetahui apa yang terjadi
+     jika kita menyebarkan dan terlalu percaya berita provokasi." ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
@@ -180,7 +181,7 @@ var textStrings_DE = {
     "lastButNotLeast"    : "und zu guter Letzt," ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "Danke an DICH f\xFCr's spielen!" ,
+    "thankYouForPlaying" : "terimakasih sudah bermain" ,
     
     // (preload_play.png)
     "playButton"         : "START" ,
