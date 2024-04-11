@@ -158,7 +158,7 @@ var textStrings_DE = {
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
     
-    // (chyron3.png)
+    // (chyron2.png)
     "chyronNothing"      : "oh wow, TIDAK ADA APA APA" ,
     
     // (credits0001.png)
@@ -172,7 +172,7 @@ var textStrings_DE = {
     "patreonSupporters"  : "und an meine Patreon Unterst\xFCtzer:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "und zu guter Letzt," ,
+    "lastButNotLeast"    : "last but not least," ,
     
     // (credits0008.png)
     "thankYouForPlaying" : "terimakasih sudah bermain" ,
@@ -180,10 +180,6 @@ var textStrings_DE = {
     // (preload_play.png)
     "playButton"         : "START" ,
     
-    // (end_button.png) Post Credits
-    "otherWorkButton"    : "andere Projekte" ,
-    "buyCoffeeButton"    : "kauf mir einen Kaffee" ,
-    "replayButton"       : "noch mal spielen" ,
     
     // (logo.png) Post Credits
     "logoWBWWB"          : "TEILE DEINEN SCHMERZ:" ,
