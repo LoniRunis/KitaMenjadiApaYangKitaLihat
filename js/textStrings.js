@@ -109,10 +109,10 @@ var textStrings_EN = {
 var textStrings_DE = {
     // Act 1
     "niceHat"              : "Oh, topi yang bagus"                                               ,
-    "outtaHere"            : "blablabllabla."                                                    ,
-    "getARoom"             : "Widerlich, nehmt euch ein Zimmer!"                                 ,
-    "notCoolAnymore"       : "Schon geh\xF6rt? H\xFCte sind out."                                ,
-    "tvOnTv"               : "Ein Fernseher! Im Fernsehen!"                                      ,
+    "outtaHere"            : "ya, sebaiknya pergi dari sini."                                    ,
+    "getARoom"             : "eww, jangan di tempat umum!"                                       ,
+    "notCoolAnymore"       : "lupakan, topi sudah tidak keren."                                  ,
+    "tvOnTv"               : "ada tv di dalam tv!"                                               ,
     "cricky"               : "Ein Grash\xFCpfer!"                                                ,
     "tooManyCrickets"      : "Ok, zu viele Grash\xFCpfer."                                       ,
     "normalPeep"           : "Ein gew\xF6hnlicher Typ."                                          ,
