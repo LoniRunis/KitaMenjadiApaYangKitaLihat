@@ -128,50 +128,50 @@ var textStrings_DE = {
     "whoScaresThem"        : "(*siapa* yang membuatnya taku?)"                                   ,
     "areTheyScared"        : "(tangkap ketika mereka melarikan diri)"                            ,
     "squaresSnubCircles"   : "KOTAK MENGHINA LINGKARAN."                                         ,
-    "areTheySnubbed"       : "(erwische sie, *w\xE4hrend* sie angreifen)"                        ,
-    "everyoneHates"        : "ALLE HASSEN JEDEN!!1!"                                             ,
-    "almostEveryoneHates"  : "FAST JEDER HASST ALLE..."                                          ,
-    "squaresHateCircles"   : "QUADRATE HASSEN KREISE"                                            ,
-    "circlesHateSquares"   : "KREISE HASSEN QUADRATE"                                            ,
-    "areTheyYelling"       : "(erwische sie, *w\xE4hrend* sie sich gegenseitig anschreien)"      ,
-    "nerdsNow"             : "Was machen diese Nerds jetzt?"                                     ,
-    "schockedPeep"         : "Warum ist er geschockt?"                                           ,
-    "whatever"             : "Egal..."                                                           ,
+    "areTheySnubbed"       : "(kamu harus menangkap nya saat *menghina* lingkaran)"              ,
+    "everyoneHates"        : "SEMUA SALING MEMBENCI!!!"                                          ,
+    "almostEveryoneHates"  : "HAMPIR SEMUA SALING MEMBENCI"                                      ,
+    "squaresHateCircles"   : "KOTAK MEMBENCI LINGKARAN"                                          ,
+    "circlesHateSquares"   : "LINGKARAN MEMBENCI KOTAK"                                          ,
+    "areTheyYelling"       : "(kamu harus menangkap mereka saat berteriak)"                      ,
+    "nerdsNow"             : "apa yang dilakukan orang aneh ini?"                                ,
+    "schockedPeep"         : "kenapa dia kaget?"                                                 ,
+    "whatever"             : "Terserah..."                                                       ,
     
     // Act 3
     "ellipsis"             : ". . ."                                                             ,
-    "coolNoMore"           : "H\xFCte sind out. Hast du's immer noch nicht geh\xF6rt?"           ,
-    "beScared"             : "HABT ANGST. SEID W\xDCTEND."                                       ,
+    "coolNoMore"           : "Topi sudah tidak keren lagi, apakah kamu tidak mendengar?"         ,
+    "beScared"             : "TAKUTLAH, MARAHLAH"                                                ,
     
     // MANIFESTO
     "manifesto" : [
        //"Als ob ihr an guten Nachrichten interessiert seid."     ,
-       "Wer will denn sehen, wie Leute miteinender klarkommen?" ,
-       "Frieden ist langweilig. Die Leute wollen Gewalt sehen." ,
+       "siapa yang menonton orang rukun?"                         ,
+       "kekerasan menjadi viral!!."                               ,
        //"Frieden ist langweilig. Konflikt bringt Klicks."        ,
-       "Jede gute Story braucht einen Konflikt, also..."        ,
+       "setiap cerita membutuhkan konflik, jadi..."               ,
        //"...GIB DEM PUBLIKUM WAS ES WILL!"                       ,
-       "GIB DEM PUBLIKUM WAS ES WILL!"
+       "BERIKAN APA YANG MEREKA INGINKAN PADA PENONTON."
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
-    "playingTime"        : "Spielzeit: 5 Minuten" ,
-    "warning"            : "Warnung: die folgende Sendung\nenth\xE4lt Darstellungen von Arroganz,\nBeleidigungen & Gewalt.\nund ist nicht f\xFCr Kinder geeignet." ,
+    "playingTime"        : "waktu permainan: 5 menit" ,
+    "warning"            : "Game ini dibuat untuk mengetahui apa yang terjadi jika kita menyebarkan dan terlalu percaya berita provokasi." ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
     
     // (chyron3.png)
-    "chyronNothing"      : "Oh wow, *NICHTS*!" ,
+    "chyronNothing"      : "oh wow, TIDAK ADA APA APA" ,
     
     // (credits0001.png)
     "createdBy"          : "" , // I'd leave that in English, even for the German translation. /stefan
     "NickyCase"          : "" , // name; just here in case you want to display text instead of graphic. /stefan
     
     // (credits0002.png)
-    "manyThanks"         : "Vielen Dank an alle Tester:" ,
+    "manyThanks"         : "Tujuan game ini:" ,
     
     // (credits000[3,4,5,6].png)
     "patreonSupporters"  : "und an meine Patreon Unterst\xFCtzer:" ,
