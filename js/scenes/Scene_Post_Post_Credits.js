@@ -5,7 +5,7 @@ Game.addToManifest({
 	facebook: "sprites/postcredits/facebook.png",
 	twitter: "sprites/postcredits/twitter.png",
 
-	end_button: "sprites/postcredits/end_button.json"
+	
 
 });
 

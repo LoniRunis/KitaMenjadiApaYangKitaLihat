@@ -81,11 +81,6 @@ var textStrings_EN = {
     // (preload_play.png)
     "playButton"         : "PLAY" ,
     
-    // (end_button.png) Post Credits
-    "otherWorkButton"    : "see my other work" ,
-    "buyCoffeeButton"    : "buy me a coffee" ,
-    "replayButton"       : "replay this mess" ,
-    
     // (logo.png) Post Credits
     "logoWBWWB"          : "SHARE THE PAIN:" ,
     
@@ -158,7 +153,7 @@ var textStrings_DE = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "waktu permainan: 5 menit" ,
-    "warning"            : "jika kita menyebarkan <br> dan terlalu percaya berita provokasi." ,
+    "warning"            : "jika kita menyebarkan dan terlalu percaya berita provokasi."     ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
@@ -194,18 +189,18 @@ var textStrings_DE = {
     "logoWBWWB"          : "TEILE DEINEN SCHMERZ:" ,
     
     // (end_prototype.png)
-    "endOfPrototype"     : "ENDE DES PROTOTYPS" ,
-    "toBeContinued"      : "(wird fortgesetzt!)" ,
+    "endOfPrototype"     : "END OF PROTOTYPE" ,
+    "toBeContinued"      : "(thank you!)" ,
     
     // (quote0002.png)
     "WBWWB"              : "Wir werden, was wir sehen." , // I'd leave that in English, even for the German translation. /stefan
-    "WSOTATOTSU"         : "Wir formen unsere Werkzeuge, und dann formen unsere Werkzeuge uns." ,
+    "WSOTATOTSU"         : "We shape our tools and then our tools shape us." ,
     
     // (quote0003.png)
     "MarshallMcLuhan"    : "Marshall McLuhan" , // name; just here in case you want to display text instead of graphic. /stefan
     
     // (quote0004.png)
-    "misatrributed"      : "(falsch zugeschrieben)" ,
+    "misatrributed"      : "(missatributed)" ,
 };
 
 var textStrings = textStrings_DE;
